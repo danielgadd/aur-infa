@@ -1,4 +1,4 @@
-# Maintainer: Daniel Gadd <hello@gadd.co.nz
+# Maintainer: Daniel Gadd <hello@gadd.co.nz>
 
 pkgname=infra
 pkgdesc='Instantly manage and monitor Kubernetes from your Desktop.'
