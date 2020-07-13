@@ -1,0 +1,9 @@
+pkgbase = infra
+	pkgdesc = Constantly manage and monitor Kubernetes from your Desktop
+	pkgver = 0.33
+	pkgrel = 1
+	url = https://infra.app
+	arch = any
+	license = custom
+pkgname = infra
+
